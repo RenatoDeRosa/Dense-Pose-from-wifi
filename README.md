@@ -5,4 +5,6 @@ i will inspire my work to other research like the one from Wifi2Pose and the CMU
 every advice will be accepted
 
 https://github.com/rtmtree/Wifi2Pose
+
+
 https://www.ri.cmu.edu/publications/dense-human-pose-estimation-from-wifi/
